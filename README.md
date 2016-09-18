@@ -75,5 +75,5 @@ function run($obj) // ~> $demo
 | ::          | author         | 备注人         | // #~ 权限表待补充::Lolly                     |
 | @           | time           | 备注时间       | // #$ 未测试::Lolly@20140123                  |
 | ^           | local          | 备注地点       | // #% 明天重构::Lolly^home@20140123           |
-| #\[w\]\(u\) | link           | 链接           | // #\[参考地址\]\(http://www.alloyteams.com\) |
+| #\[w\]\(u\) | link           | 链接           | // #\[参考地址\]\(http://www.alloyteams.com/) |
 
